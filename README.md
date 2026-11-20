@@ -12,9 +12,9 @@ A remake of *Indiana Jones and the Infernal Machine* rebuilt in the **Indiana Jo
 
 [![Indiana Jones And The Infernal Machine](https://raw.githubusercontent.com/igiteam/indiana-jones-emperors-tomb-infernal-machine/refs/heads/main/indiana-jones-infernal-machine.jpg)](https://archive.org/details/Infermachine.7z)
 
-[![Indiana Jones and the Emperor's Tomb](https://i.ytimg.com/vi/-drTyzJxHw8/maxresdefault.jpg)](https://www.youtube.com/watch=-drTyzJxHw8)
+[![Indiana Jones and the Emperor's Tomb](https://img.youtube.com/vi/-drTyzJxHw8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?LWRyVHl6SnhIdzg)
 
-[![Indiana Jones And The Infernal Machine](https://i.ytimg.com/vi/W-utX8P6oyc/maxresdefault.jpg)](https://www.youtube.com/watch=W-utX8P6oyc)
+[![Indiana Jones And The Infernal Machine](https://i.ytimg.com/vi/W-utX8P6oyc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Vy11dFg4UDZveWM)
 
 
 ## Reference Links
