@@ -1,17 +1,17 @@
-# indiana-jones-emperors-tomb-infernal-machine
+# indiana-jones-emperors-tomb-indiana-jones-infernal-machine
 ## Indiana Jones and the Emperor's Tomb - Indiana Jones and the Infernal Machine Remake
 A remake of *Indiana Jones and the Infernal Machine* rebuilt in the **Indiana Jones and the Emperor's Tomb** engine/project.
 
 ## Github Treeview
-[https://treegit.macosxjs.com/?url=igiteam/indiana-jones-emperors-tomb-infernal-machine](https://treegit.macosxjs.com/?url=igiteam/indiana-jones-emperors-tomb-infernal-machine)
+[https://treegit.macosxjs.com/?url=igiteam/indiana-jones-emperors-tomb-indiana-jones-infernal-machine](https://treegit.macosxjs.com/?url=igiteam/indiana-jones-emperors-tomb-indiana-jones-infernal-machine)
 
 ## Github Tree Api Direct JSON
-[https://api.github.com/repos/igiteam/indiana-jones-emperors-tomb-infernal-machine/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/indiana-jones-emperors-tomb-infernal-machine/git/trees/main?recursive=1)
+[https://api.github.com/repos/igiteam/indiana-jones-emperors-tomb-indiana-jones-infernal-machine/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/indiana-jones-emperors-tomb-indiana-jones-infernal-machine/git/trees/main?recursive=1)
 
 ## Base Gameplay
-[![Indiana Jones and the Emperor's Tomb](https://raw.githubusercontent.com/igiteam/indiana-jones-emperors-tomb-infernal-machine/refs/heads/main/indiana-jones-emperors-tomb.jpg)](https://archive.org/details/indianajonesandtheemperorstombusapc)
+[![Indiana Jones and the Emperor's Tomb](https://raw.githubusercontent.com/igiteam/indiana-jones-emperors-tomb-indiana-jones-infernal-machine/refs/heads/main/indiana-jones-emperors-tomb.jpg)](https://archive.org/details/indianajonesandtheemperorstombusapc)
 
-[![Indiana Jones And The Infernal Machine](https://raw.githubusercontent.com/igiteam/indiana-jones-emperors-tomb-infernal-machine/refs/heads/main/indiana-jones-infernal-machine.jpg)](https://archive.org/details/Infermachine.7z)
+[![Indiana Jones And The Infernal Machine](https://raw.githubusercontent.com/igiteam/indiana-jones-emperors-tomb-indiana-jones-infernal-machine/refs/heads/main/indiana-jones-infernal-machine.jpg)](https://archive.org/details/Infermachine.7z)
 
 [![Indiana Jones and the Emperor's Tomb](https://img.youtube.com/vi/-drTyzJxHw8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?LWRyVHl6SnhIdzg)
 
