@@ -1,5 +1,5 @@
 # indiana-jones-emperors-tomb-infernal-machine
-## Indiana Jones 
+## Indiana Jones and the Emperor's Tomb - Indiana Jones and the Infernal Machine Remake
 A remake of *Indiana Jones and the Infernal Machine* rebuilt in the **Indiana Jones and the Emperor's Tomb** engine/project.
 
 ## Github Treeview
