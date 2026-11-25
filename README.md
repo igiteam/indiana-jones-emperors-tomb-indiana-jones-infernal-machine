@@ -10,9 +10,9 @@ A remake of *Indiana Jones and the Infernal Machine* rebuilt in the **Indiana Jo
 
 ## Base Gameplay
 
-[![Indiana Jones and the Emperor's Tomb](https://img.youtube.com/vi/-drTyzJxHw8/maxresdefault.jpg)](https://ytembed.macosxjs.com/?LWRyVHl6SnhIdzg)
+[![Indiana Jones and the Emperor's Tomb](https://img.youtube.com/vi/-drTyzJxHw8/hqdefault.jpg)](https://ytembed.macosxjs.com/?LWRyVHl6SnhIdzg)
 
-[![Indiana Jones And The Infernal Machine](https://i.ytimg.com/vi/W-utX8P6oyc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Vy11dFg4UDZveWM)
+[![Indiana Jones And The Infernal Machine](https://i.ytimg.com/vi/W-utX8P6oyc/hqdefault.jpg)](https://ytembed.macosxjs.com/?Vy11dFg4UDZveWM)
 
 [![Indiana Jones and The Staff of Kings PSX](https://i.ytimg.com/vi/MZydnIbMGTw/hqdefault.jpg)](https://ytembed.macosxjs.com/?cGEyWU1peC1VbHc)
 
