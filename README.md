@@ -14,6 +14,8 @@ A remake of *Indiana Jones and the Infernal Machine* rebuilt in the **Indiana Jo
 
 [![Indiana Jones And The Infernal Machine](https://i.ytimg.com/vi/W-utX8P6oyc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Vy11dFg4UDZveWM)
 
+[![Indiana Jones and The Staff of Kings PSX](https://img.youtube.com/vi/pa2YMix-Ulw/maxresdefault.jpg)](https://ytembed.macosxjs.com/?cGEyWU1peC1VbHc)
+
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
 
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
@@ -28,7 +30,10 @@ A remake of *Indiana Jones and the Infernal Machine* rebuilt in the **Indiana Jo
 
 [![Indiana Jones and the Emperor's Tomb](https://raw.githubusercontent.com/igiteam/indiana-jones-emperors-tomb-indiana-jones-infernal-machine/refs/heads/main/indiana-jones-emperors-tomb.jpg)](https://archive.org/details/indianajonesandtheemperorstombusapc)
 
-[![Indiana Jones And The Infernal Machine](https://raw.githubusercontent.com/igiteam/indiana-jones-emperors-tomb-indiana-jones-infernal-machine/refs/heads/main/indiana-jones-infernal-machine.jpg)](https://archive.org/details/Infermachine.7z)
+[![Indiana Jones and the Infernal Machine](https://raw.githubusercontent.com/igiteam/indiana-jones-emperors-tomb-indiana-jones-infernal-machine/refs/heads/main/indiana-jones-infernal-machine.jpg)](https://archive.org/details/Infermachine.7z)
+
+[![Indiana Jones and the Staff of Kings](https://raw.githubusercontent.com/igiteam/indiana-jones-emperors-tomb-indiana-jones-infernal-machine/refs/heads/main/indiana-jones-staff-of-kings.png)](https://vimm.net/vault/8542)
+
 
 ---
 
