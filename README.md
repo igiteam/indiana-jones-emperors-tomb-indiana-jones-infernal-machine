@@ -14,7 +14,7 @@ A remake of *Indiana Jones and the Infernal Machine* rebuilt in the **Indiana Jo
 
 [![Indiana Jones And The Infernal Machine](https://i.ytimg.com/vi/W-utX8P6oyc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Vy11dFg4UDZveWM)
 
-[![Indiana Jones and The Staff of Kings PSX](https://img.youtube.com/vi/pa2YMix-Ulw/maxresdefault.jpg)](https://ytembed.macosxjs.com/?cGEyWU1peC1VbHc)
+[![Indiana Jones and The Staff of Kings PSX](https://i.ytimg.com/vi/MZydnIbMGTw/hqdefault.jpg)](https://ytembed.macosxjs.com/?cGEyWU1peC1VbHc)
 
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
 
